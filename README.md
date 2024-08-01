@@ -1,3 +1,6 @@
+RETAILS-ORDERS-ANALYSIS-BY-PYTHON-SQL
+🔍 Unveiling Retail Insights: A Deep Dive into Data Analysis 📊
+
 📍 Project: Retail Orders Analysis
 Objective: Leveraging SQL and data cleaning techniques to uncover actionable insights for enhancing business growth and customer experiences.
 
